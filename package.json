@@ -1,0 +1,9 @@
+{
+  "name": "flash-loan-arbitrage-core",
+  "version": "1.0.0",
+  "description": "Aave V3 Flash Loan receiver for arbitrage",
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
